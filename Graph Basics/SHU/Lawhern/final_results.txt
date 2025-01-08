@@ -1,0 +1,125 @@
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-001:
+  Session 1: Best Test Accuracy = 0.5900, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5900, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5657, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5758, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-002:
+  Session 1: Best Test Accuracy = 0.5326, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5684, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6000, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5600, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-003:
+  Session 1: Best Test Accuracy = 0.5652, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5500, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6087, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5800, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-004:
+  Session 1: Best Test Accuracy = 0.5632, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5258, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5385, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5400, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-005:
+  Session 1: Best Test Accuracy = 0.6064, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5500, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6129, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5253, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-006:
+  Session 1: Best Test Accuracy = 0.5699, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5745, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6211, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6848, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-007:
+  Session 1: Best Test Accuracy = 0.6300, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5700, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6042, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6196, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-008:
+  Session 1: Best Test Accuracy = 0.5500, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6170, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6180, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5833, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-009:
+  Session 1: Best Test Accuracy = 0.5714, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6400, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6200, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6146, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-010:
+  Session 1: Best Test Accuracy = 0.6292, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6277, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6000, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6100, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-011:
+  Session 1: Best Test Accuracy = 0.5900, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5851, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5900, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6100, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-012:
+  Session 1: Best Test Accuracy = 0.5600, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5385, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5876, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6207, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-013:
+  Session 1: Best Test Accuracy = 0.5900, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6064, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6000, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5789, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-014:
+  Session 1: Best Test Accuracy = 0.6000, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6105, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6522, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5978, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-015:
+  Session 1: Best Test Accuracy = 0.5800, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 1.0000, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5882, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 1.0000, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-016:
+  Session 1: Best Test Accuracy = 0.6300, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6500, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6900, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6211, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-017:
+  Session 1: Best Test Accuracy = 0.5500, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6000, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5918, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6100, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-018:
+  Session 1: Best Test Accuracy = 0.5106, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5500, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5700, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6300, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-019:
+  Session 1: Best Test Accuracy = 0.6000, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6526, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6277, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6304, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-020:
+  Session 1: Best Test Accuracy = 0.6966, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5500, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5600, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6700, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-021:
+  Session 1: Best Test Accuracy = 0.5957, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.5960, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6022, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5600, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-022:
+  Session 1: Best Test Accuracy = 0.6207, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6000, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6100, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6500, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-023:
+  Session 1: Best Test Accuracy = 0.6354, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6064, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5758, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6300, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-024:
+  Session 1: Best Test Accuracy = 0.5946, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6098, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.5542, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.5918, Number of Parameters = 176477
+Results for C:\Users\uceerjp\Desktop\PhD\Multi-session Data\SHU Dataset\MatFiles\sub-025:
+  Session 1: Best Test Accuracy = 0.6136, Number of Parameters = 176477
+  Session 2: Best Test Accuracy = 0.6739, Number of Parameters = 176477
+  Session 3: Best Test Accuracy = 0.6170, Number of Parameters = 176477
+  Session 4: Best Test Accuracy = 0.6250, Number of Parameters = 176477
